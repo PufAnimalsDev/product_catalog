@@ -25,10 +25,6 @@ export const CartPage = () => {
                     <button className='cart-page__checkout__submit'>checkout</button>
                 </div>
             </div>
-
-
         </section>
     )
-
-
 }
